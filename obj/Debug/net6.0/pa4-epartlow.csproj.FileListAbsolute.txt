@@ -1,0 +1,15 @@
+C:\Users\emmag\Documents\mis321\pa4-epartlow\obj\Debug\net6.0\pa4-epartlow.csproj.AssemblyReference.cache
+C:\Users\emmag\Documents\mis321\pa4-epartlow\obj\Debug\net6.0\pa4-epartlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emmag\Documents\mis321\pa4-epartlow\obj\Debug\net6.0\pa4-epartlow.AssemblyInfoInputs.cache
+C:\Users\emmag\Documents\mis321\pa4-epartlow\obj\Debug\net6.0\pa4-epartlow.AssemblyInfo.cs
+C:\Users\emmag\Documents\mis321\pa4-epartlow\obj\Debug\net6.0\pa4-epartlow.csproj.CoreCompileInputs.cache
+C:\Users\emmag\Documents\mis321\pa4-epartlow\bin\Debug\net6.0\pa4-epartlow.exe
+C:\Users\emmag\Documents\mis321\pa4-epartlow\bin\Debug\net6.0\pa4-epartlow.deps.json
+C:\Users\emmag\Documents\mis321\pa4-epartlow\bin\Debug\net6.0\pa4-epartlow.runtimeconfig.json
+C:\Users\emmag\Documents\mis321\pa4-epartlow\bin\Debug\net6.0\pa4-epartlow.dll
+C:\Users\emmag\Documents\mis321\pa4-epartlow\bin\Debug\net6.0\pa4-epartlow.pdb
+C:\Users\emmag\Documents\mis321\pa4-epartlow\obj\Debug\net6.0\pa4-epartlow.dll
+C:\Users\emmag\Documents\mis321\pa4-epartlow\obj\Debug\net6.0\refint\pa4-epartlow.dll
+C:\Users\emmag\Documents\mis321\pa4-epartlow\obj\Debug\net6.0\pa4-epartlow.pdb
+C:\Users\emmag\Documents\mis321\pa4-epartlow\obj\Debug\net6.0\pa4-epartlow.genruntimeconfig.cache
+C:\Users\emmag\Documents\mis321\pa4-epartlow\obj\Debug\net6.0\ref\pa4-epartlow.dll
